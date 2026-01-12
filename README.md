@@ -1,2 +1,12 @@
-# 4bit-up-counter-sverilog
-SystemVerilog 4-bit up counter - VLSI portfolio project #1
+# 4-Bit Synchronous Up Counter
+
+SystemVerilog implementation with testbench using EDAplayground.
+
+## Features
+- 4-bit synchronous counter (0-15)
+- Active-low synchronous reset
+- Enable-gated increment  
+- 100MHz clock
+
+## Verification Results
+[Waveform](ss4.jpg)
