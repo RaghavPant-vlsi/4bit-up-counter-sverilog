@@ -9,4 +9,4 @@ SystemVerilog implementation with testbench using EDAplayground.
 - 100MHz clock
 
 ## Verification Results
-![Waveform](ss3.jpg)
+![Waveform](ss3.PNG)
